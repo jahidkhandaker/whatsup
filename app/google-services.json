@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008863225482",
+    "firebase_url": "https://whatsup-f9fab.firebaseio.com",
+    "project_id": "whatsup-f9fab",
+    "storage_bucket": "whatsup-f9fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008863225482:android:b6afcd52ef961bdd",
+        "android_client_info": {
+          "package_name": "com.nsu.whatsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008863225482-n51pj2s63s7gche6r3e4casau00ebl8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nsu.whatsup",
+            "certificate_hash": "057b2e32e4b782f275a713fe0d00b81d0bd1784e"
+          }
+        },
+        {
+          "client_id": "1008863225482-nvus94plil32dh8v9eongnaircl5eka5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP1Do8qTdr-NkEysPl29M1oZAiATO4u0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008863225482-nvus94plil32dh8v9eongnaircl5eka5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
